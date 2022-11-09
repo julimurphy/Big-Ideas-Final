@@ -4,7 +4,7 @@ A Readme that contains:
 
 **Team name**
 
-Julianne Murphy jem451@pitt.edu
+Julianne Murphy - jem451@pitt.edu
 
 Kathryn Bager - kab521@pitt.edu
 
