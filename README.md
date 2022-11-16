@@ -2,7 +2,7 @@
 
 A Readme that contains:
 
-**Team name**
+**Pandas Pros**
 
 Julianne Murphy - jem451@pitt.edu
 
