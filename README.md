@@ -28,6 +28,5 @@
 
 * Playground equipment data is organized in 
 
-The best neighbourhood is... **Squirrel Hill South!**
-
-*The data showed that they had the most speed bumps, trees, and playgrounds among any other neighborhood.*
+> The best neighbourhood is... **Squirrel Hill South!**
+> *The data showed that they had the most speed bumps, trees, and playgrounds among any other neighborhood.*
