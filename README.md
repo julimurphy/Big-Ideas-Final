@@ -24,4 +24,6 @@ Notebook containing explanation of data and conclusions is Final.ipynb.
 
 Tree data is organized in TreeData.ipynb
 
-Speed bump data is organized in SpeedBump.ipynb
+Speed bump data is organized in 
+
+Playground equipment data is organized in 
