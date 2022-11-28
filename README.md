@@ -22,11 +22,11 @@ Speed Bumps - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e
 
 Notebook containing explanation of data and conclusions is Final.ipynb. 
 
-Tree data is organized in TreeData.ipynb
+* Tree data is organized in TreeData.ipynb
 
-Speed bump data is organized in PittSpeedBumps-2.ipynb
+* Speed bump data is organized in PittSpeedBumps-2.ipynb
 
-Playground equipment data is organized in 
+* Playground equipment data is organized in 
 
 The best neighbourhood is... **Squirrel Hill South!**
-They had the most speed bumps, trees, and playgrounds, shown through all the data. 
+The data showed that they had the most speed bumps, trees, and playgrounds among any other neighborhood. 
