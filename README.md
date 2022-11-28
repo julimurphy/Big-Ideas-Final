@@ -22,4 +22,6 @@ Our metric for measuring the best neighbrhood in Pittsburgh is how much fun a ki
 
 Notebook containing explanation of data and conclusions is Final.ipynb. 
 
-TreeData.ipynb contains 
+Tree data is organized in TreeData.ipynb
+
+Speed bump data is organized in SpeedBump.ipynb
