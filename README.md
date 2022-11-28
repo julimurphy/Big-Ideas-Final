@@ -3,11 +3,11 @@
 
 **Pandas Pros**
 
-Julianne Murphy - jem451@pitt.edu
+* Julianne Murphy - jem451@pitt.edu
 
-Kathryn Bager - kab521@pitt.edu
+* Kathryn Bager - kab521@pitt.edu
 
-Emily Durning - ejd83@pitt.edu
+* Emily Durning - ejd83@pitt.edu
 
 **Datasets used:**
 
@@ -19,7 +19,6 @@ Speed Bumps - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e
 
 
 **Our metric for measuring the best neighbrhood in Pittsburgh is how much fun a kid would have living there.**
-
 Notebook containing explanation of data and conclusions is Final.ipynb. 
 
 * Tree data is organized in TreeData.ipynb
