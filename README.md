@@ -1,7 +1,7 @@
 # Big-Ideas-Final
 
 
-**Pandas Pros**
+## **Pandas Pros**
 
 * Julianne Murphy - jem451@pitt.edu
 
@@ -19,7 +19,8 @@
 
 
 **Our metric for measuring the best neighbrhood in Pittsburgh is how much fun a kid would have living there.**
-Notebook containing explanation of data and conclusions is Final.ipynb. 
+
+* Notebook containing explanation of data and conclusions is Final.ipynb. 
 
 * Tree data is organized in TreeData.ipynb
 
@@ -28,4 +29,4 @@ Notebook containing explanation of data and conclusions is Final.ipynb.
 * Playground equipment data is organized in 
 
 The best neighbourhood is... **Squirrel Hill South!**
-The data showed that they had the most speed bumps, trees, and playgrounds among any other neighborhood. 
+*The data showed that they had the most speed bumps, trees, and playgrounds among any other neighborhood.*
