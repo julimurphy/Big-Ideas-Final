@@ -22,13 +22,13 @@ Group 27
 
 ## **Our metric for measuring the best neighbrhood in Pittsburgh is how much fun a kid would have living there.**
 
-* Notebook containing explanation of data and conclusions is Final.ipynb. 
+* Notebook containing explanation of data and conclusions is Final.ipynb
 
-* Tree data is organized in TreeData.ipynb (Juli)
+* Tree data is organized in TreeData.ipynb   (Juli)
 
-* Speed bump data is organized in PittSpeedBumps-2.ipynb (Kathryn)
+* Speed bump data is organized in PittSpeedBumps-2.ipynb   (Kathryn)
 
-* Playground equipment data is organized in (Emily)
+* Playground equipment data is organized in durning-final (1).ipynb   (Emily)
 
 
 ## Results: 
