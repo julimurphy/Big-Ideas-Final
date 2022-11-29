@@ -3,6 +3,8 @@
 
 ## **Pandas Pros**
 
+Group 27
+
 * Julianne Murphy - jem451@pitt.edu
 
 * Kathryn Bager - kab521@pitt.edu
@@ -11,11 +13,11 @@
 
 ## **Datasets used:**
 
-* **Trees** - Data that contains information on the trees in the city of Pittsburgh, including the neighborhood they are in. https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
+* **Trees** - Data that contains information on the trees in the city of Pittsburgh, including the neighborhood they are in. https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da (Juli)
 
-* **Playground Equipment** - https://data.wprdc.org/datastore/dump/e39ef76e-0a11-47c8-a86f-a37f55db7a2b
+* **Playground Equipment** - https://data.wprdc.org/datastore/dump/e39ef76e-0a11-47c8-a86f-a37f55db7a2b (Emily)
 
-* **Speed Bumps** - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e05dc3640
+* **Speed Bumps** - https://data.wprdc.org/datastore/dump/37b2ac41-ae8e-4de1-8405-157e05dc3640 (Kathryn)
 
 
 ## **Our metric for measuring the best neighbrhood in Pittsburgh is how much fun a kid would have living there.**
